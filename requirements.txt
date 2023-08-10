@@ -135,7 +135,6 @@ rope==0.22.0
 Rtree==0.9.7
 setuptools==63.4.1
 shap==0.42.1
-sip==4.19.13
 six==1.16.0
 slicer==0.0.7
 smmap==5.0.0
